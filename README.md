@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sandesh Basnet</h1>
 <h3 align="center">A creative Designer and Software Engineer Undergraduate.</h3>
 
-- 🌱 I’m currently learning **Web designing.**
+- 🌱 I’m currently learning **Web designing and development.**
 
-- 👯 I’m looking to collaborate on **Designing.**
+- 👯 I’m looking to collaborate on **Web Development.**
 
-- 🤖 I'm keen on **Web Design and Graphics Designing.**
+- 🤖 I'm keen on **Web Designing and Development.**
 
 - 📫 How to reach me **sandeshbasnet773@gmail.com**
 
